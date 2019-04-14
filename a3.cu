@@ -74,6 +74,8 @@ void CPUgenPrime(uint64_t range, bool mode, std::ofstream &fileOut) {
 				}
 			}
 		}
+	
+	
 	//Stop the clock
 	te = steady_clock::now();
 
