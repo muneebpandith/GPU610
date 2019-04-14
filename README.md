@@ -1,6 +1,8 @@
 # GPU610
 GenPrime 3.5
-Prime number generator using CUDA
+Prime number generator on parallel GPUs 
+
+#Parallel Architecture provided by Nvidia (CUDA)
 
 This is the final version of a CUDA optimized prime number generator
 It accepts command line range input (3~500000) and/or an interactive 3 step process to generate numbers very quickly.
